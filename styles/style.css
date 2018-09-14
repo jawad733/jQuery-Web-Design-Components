@@ -353,6 +353,10 @@ input[type=text]:focus {
 	background-color: #dc3545;
 }
 
+.btn:hover {
+	background-color: #ad1f2d;
+}
+
 @-webkit-keyframes animatetop {
     from {top:-300px; opacity:0} 
     to {top:0; opacity:1}
